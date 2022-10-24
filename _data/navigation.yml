@@ -1,10 +1,20 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
-  - title: "Students"
-    url: /students/
-  - title: "Code"
-    url: /code/
-  - title: "CV (PDF)"
-    url: /files/CV_Gregoire.pdf
+  en:
+    - title: "Research"
+      url: /research/
+    - title: "Students"
+      url: /students/
+    - title: "Code"
+      url: /code/
+    - title: "CV"
+      url: /files/CV_Gregoire.pdf
+  fr:
+    - title: "Recherche"
+      url: /recherche/
+    - title: "Étudiants"
+      url: /etudiants/
+    - title: "Code"
+      url: /code_fr/
+    - title: "CV"
+      url: /files/CV_Gregoire.pdf
