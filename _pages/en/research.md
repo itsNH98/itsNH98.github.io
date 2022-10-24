@@ -6,6 +6,7 @@ lang: en
 fr: /fr/
 redirect_from:
   - /research/
+  - /en/
   - /research.html
 ---
 
