@@ -34,8 +34,8 @@ Research interests include information economics, market microstructure, big dat
   [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024)]
   [[Code <i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/vgreg/hacked_earnings_jfe)]
 
-- [Article on Bloomberg.com](https://www.bloomberg.com/news/articles/2019-04-22/the-market-knew-about-the-press-release-hackers-before-the-cops), 2019
-- [Article on Columbia Law’s Blue Sky blog](http://clsbluesky.law.columbia.edu/2019/07/10/price-revelation-from-insider-trading-evidence-from-hacked-earnings-news/), 2019
+  - [Article on Bloomberg.com](https://www.bloomberg.com/news/articles/2019-04-22/the-market-knew-about-the-press-release-hackers-before-the-cops), 2019
+  - [Article on Columbia Law’s Blue Sky blog](http://clsbluesky.law.columbia.edu/2019/07/10/price-revelation-from-insider-trading-evidence-from-hacked-earnings-news/), 2019
 
 - **How is Earnings News Transmitted to Stock Prices?**  
   _Journal of Accounting Research_, Volume 60, Issue 1, 2022,  
