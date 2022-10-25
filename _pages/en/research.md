@@ -63,7 +63,7 @@ Research interests include information economics, market microstructure, big dat
   **Note**: Since January 2019, the Chairman of the Federal Reserve now holds a press conference after each meeting, which is the main policy recommendation of the paper. A postscript at the end of the paper addresses this point.
 
   - Best Paper on Financial Institutions and Markets Award, 7th Financial Markets and Corporate Governance Conference (2016)
-  - [Article in the The Globe and Mail](https://www.theglobeandmail.com/business/careers/business-education/article-greater-transparency-in-business-can-have-unintended-consequences/), 2019
+  - [Article in The Globe and Mail](https://www.theglobeandmail.com/business/careers/business-education/article-greater-transparency-in-business-can-have-unintended-consequences/), 2019
   - Live interview with Sky Business News, 2015
   - [Mention in LA Times](http://www.latimes.com/business/la-fi-yellen-hike-analysis-20151216-story.html/), 2015
 

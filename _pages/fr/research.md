@@ -61,7 +61,7 @@ Mes intérêts de recherche comprennent l'économie de l'information, la microst
   **Note**: Depuis janvier 2019, le président de la Réserve fédérale tient désormais une conférence de presse après chaque réunion, qui est la principale recommandation politique de l'article. Un post-scriptum à la fin de l'article aborde ce point.
 
   - Best Paper on Financial Institutions and Markets Award, 7th Financial Markets and Corporate Governance Conference (2016)
-  - [Article dans le The Globe and Mail](https://www.theglobeandmail.com/business/careers/business-education/article-greater-transparency-in-business-can-have-unintended-consequences/), 2019
+  - [Article dans The Globe and Mail](https://www.theglobeandmail.com/business/careers/business-education/article-greater-transparency-in-business-can-have-unintended-consequences/), 2019
   - Entrevue en direct avec Sky Business News, 2015
   - [Mention dans le LA Times](http://www.latimes.com/business/la-fi-yellen-hike-analysis-20151216-story.html/), 2015
 
