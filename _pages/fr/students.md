@@ -25,36 +25,36 @@ Notez que je suis souvent en à capacité pour la supervision. J'essaierai soit 
 
 ### Doctorat
 
-- Siyuan Li, co-supervision avec with [Saad Ali Khan](https://www.hec.ca/profs/saad-ali.khan.html)
-- [Ayberk Sert](https://www.linkedin.com/in/saim-ayberk-sert-961a469a), co-supervision avec [Tolga Cenesizoglu](https://www.hec.ca/profs/tolga.cenesizoglu.html)
+- [Ayberk Sert](https://www.linkedin.com/in/saim-ayberk-sert-961a469a), co-supervision avec [Tolga Cenesizoglu](https://www.hec.ca/profs/tolga.cenesizoglu.html), financé par [Fin-ML](https://fin-ml.ca/)
 
 ### Maîtrise
 
-- [Sormeh Dolati](https://www.linkedin.com/in/sormeh-dolati/)
-- [Mohammad Ebrahimi](https://www.linkedin.com/in/3moheb/), co-supervision avec [Simon van Norden](https://www.hec.ca/profs/simon.van-norden.html)
+- [Mohammad Ebrahimi](https://www.linkedin.com/in/3moheb/), co-supervision avec [Simon van Norden](https://www.hec.ca/profs/simon.van-norden.html), financé par [Fin-ML](https://fin-ml.ca/)
 - [Alec Gauthier](https://www.linkedin.com/in/alecgauthier/)
 - [Kevin Guay](https://www.linkedin.com/in/kevin-guay/)
-- [Natali Yerokhina Mazer](https://www.linkedin.com/in/natali-yerokhina-mazer-48542b1b0/), co-supervision avec [Tolga Cenesizoglu](https://www.hec.ca/profs/tolga.cenesizoglu.html)
+- Joseph Bell Antoine Jotio, financé par [Fin-ML](https://fin-ml.ca/)
 - [Amin Moeinian](https://www.linkedin.com/in/aminmoeinian/), co-supervision avec [Tolga Cenesizoglu](https://www.hec.ca/profs/tolga.cenesizoglu.html)
-- Yutong Qin, co-supervision avec [Tolga Cenesizoglu](https://www.hec.ca/profs/tolga.cenesizoglu.html)
-- [Yilin Zhang](https://www.linkedin.com/in/yilin-zhang-/), co-supervision avec [Charles Martineau](http://www.charlesmartineau.com)
 
 ## Étudiants passés
 
 ### Maîtrise - HEC Montréal
 
 - **2022**
-  - [Yue Wu](https://www.linkedin.com/in/yue-w-73257214a/)
-  - [Noah Jepson](https://www.linkedin.com/in/noahjep/)
+  - [Tarek Berrahal](https://www.linkedin.com/in/tarekberrahal/), financé en partie par la [Chaire Fintech AMF – Finance Montréal](https://chairefintech.uqam.ca/)
   - [Vincent Boucher](https://www.linkedin.com/in/bouchervincent/), co-supervision avec [Iwan Meier](https://www.hec.ca/profs/iwan.meier.html)
-  - [Tarek Berrahal](https://www.linkedin.com/in/tarekberrahal/)
+  - [Sormeh Dolati](https://www.linkedin.com/in/sormeh-dolati/)
   - [Elliott Francoeur](https://www.linkedin.com/in/elliott-francoeur/)
+  - [Noah Jepson](https://www.linkedin.com/in/noahjep/)
+  - [Natali Yerokhina Mazer](https://www.linkedin.com/in/natali-yerokhina-mazer-48542b1b0/), co-supervision avec [Tolga Cenesizoglu](https://www.hec.ca/profs/tolga.cenesizoglu.html)
+  - Yutong Qin, co-supervision avec [Tolga Cenesizoglu](https://www.hec.ca/profs/tolga.cenesizoglu.html)
+  - [Yue Wu](https://www.linkedin.com/in/yue-w-73257214a/)
+  - [Yilin Zhang](https://www.linkedin.com/in/yilin-zhang-/), co-supervision avec [Charles Martineau](http://www.charlesmartineau.com)
 - **2021**
   - [Vincent Ouellet](https://www.linkedin.com/in/vincentouellet/)
 - **2020**
-  - [Philip Marceau](https://www.linkedin.com/in/philip-marceau-753b8a1b3/)
+  - [Alexandre Claveau](https://www.linkedin.com/in/alexandre-claveau-m-sc-52b513170/), financé en partie par la [Chaire Fintech AMF – Finance Montréal](https://chairefintech.uqam.ca/)
   - [Rajat Kumar](https://www.linkedin.com/in/rajatkumar376/), co-supervision avec [Tolga Cenesizoglu](https://www.hec.ca/profs/tolga.cenesizoglu.html)
-  - [Alexandre Claveau](https://www.linkedin.com/in/alexandre-claveau-m-sc-52b513170/)
+  - [Philip Marceau](https://www.linkedin.com/in/philip-marceau-753b8a1b3/)
 
 ### Honours - Univesity of Melbourne
 
