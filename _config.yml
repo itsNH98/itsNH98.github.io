@@ -83,8 +83,8 @@ author:
   name             : "Vincent Grégoire"
   avatar           : "profile.png"
   bio              : 
-    en: 'Associate Professor of Finance at <a href="https://www.hec.ca/en/profs/vincent.3.gregoire.html">HEC Montréal</a><br/></br/>Co-Founder and Chief Data Scientist at <a href="https://berkindale.com/">Berkindale Analytics</a>'
-    fr: 'Professeur agrégé au département de finance de <a href="https://www.hec.ca/en/profs/vincent.3.gregoire.html">HEC Montréal</a><br/></br/>Co-fondateur et directeur scientifique de <a href="https://berkindale.com/">Berkindale Analytiques</a>'
+    en: 'Associate Professor of Finance at <a href="https://www.hec.ca/en/profs/vincent.3.gregoire.html">HEC Montréal</a>'
+    fr: 'Professeur agrégé au département de finance de <a href="https://www.hec.ca/en/profs/vincent.3.gregoire.html">HEC Montréal</a>'
   location         : "Montréal, Canada"
   address          : "HEC Montréal<br/>3000, chemin de la Côte-Sainte-Catherine<br/>Montréal (Québec)<br/>Canada H3T 2A7"
   employer         : 
