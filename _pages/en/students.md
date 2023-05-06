@@ -30,9 +30,12 @@ Note that I am often overbooked for supervision. I will either try to book a mee
 ### MSc
 
 - [Mohammad Ebrahimi](https://www.linkedin.com/in/3moheb/), co-supervised with [Simon van Norden](https://www.hec.ca/en/profs/simon.van-norden.html), funded by [Fin-ML](https://fin-ml.ca/)
+- [Alireza Fallahi](https://www.linkedin.com/in/alireza-fallahii/), co-supervised with [Saad Ali Khan](http://saadalikhan.com/)
 - [Alec Gauthier](https://www.linkedin.com/in/alecgauthier/)
 - [Kevin Guay](https://www.linkedin.com/in/kevin-guay/)
+- [Nicolas Harvie](https://www.linkedin.com/in/nicolas-harvie-a49972135/), co-supervised with [Anthony Sanford](https://www.anthonysanford.com/)
 - Joseph Bell Antoine Jotio, funded by [Fin-ML](https://fin-ml.ca/)
+- [Yasmin Kalhor](https://www.linkedin.com/in/yasmin-kalhor/), co-supervised with [Charles Martineau](http://www.charlesmartineau.com)
 - [Amin Moeinian](https://www.linkedin.com/in/aminmoeinian/), co-supervised with [Tolga Cenesizoglu](https://www.hec.ca/en/profs/tolga.cenesizoglu.html)
 
 ## Past students

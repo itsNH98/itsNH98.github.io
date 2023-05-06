@@ -19,7 +19,7 @@ Si vous êtes intéressé à travailler sous ma supervision pour votre mémoire 
 - Date prévue de début et de fin de votre projet.
 - Une liste de sujets qui vous intéressent ou de questions de recherche potentielles.
 
-Notez que je suis souvent en à capacité pour la supervision. J'essaierai soit de prendre rendez-vous avec vous pour discuter plus en détail de votre projet, soit de recommander d'autres professeurs en rapport avec vos sujets d'intérêt.
+Notez que je suis souvent à pleine capacité pour la supervision. J'essaierai soit de prendre rendez-vous avec vous pour discuter plus en détail de votre projet, soit de recommander d'autres professeurs en rapport avec vos sujets d'intérêt.
 
 ## Étudiants actuels
 
@@ -30,9 +30,12 @@ Notez que je suis souvent en à capacité pour la supervision. J'essaierai soit 
 ### Maîtrise
 
 - [Mohammad Ebrahimi](https://www.linkedin.com/in/3moheb/), co-supervision avec [Simon van Norden](https://www.hec.ca/profs/simon.van-norden.html), financé par [Fin-ML](https://fin-ml.ca/)
+- [Alireza Fallahi](https://www.linkedin.com/in/alireza-fallahii/), co-supervision avec [Saad Ali Khan](http://saadalikhan.com/)
 - [Alec Gauthier](https://www.linkedin.com/in/alecgauthier/)
 - [Kevin Guay](https://www.linkedin.com/in/kevin-guay/)
+- [Nicolas Harvie](https://www.linkedin.com/in/nicolas-harvie-a49972135/), co-supervision avec [Anthony Sanford](https://www.anthonysanford.com/)
 - Joseph Bell Antoine Jotio, financé par [Fin-ML](https://fin-ml.ca/)
+- [Yasmin Kalhor](https://www.linkedin.com/in/yasmin-kalhor/), co-supervision avec [Charles Martineau](http://www.charlesmartineau.com)
 - [Amin Moeinian](https://www.linkedin.com/in/aminmoeinian/), co-supervision avec [Tolga Cenesizoglu](https://www.hec.ca/profs/tolga.cenesizoglu.html)
 
 ## Étudiants passés

@@ -12,8 +12,8 @@ Mes intérêts de recherche comprennent l'économie de l'information, la microst
 
 ## Documents de travail
 
-- **Noisy FOMC Returns**  
-   avec [Oliver Boguth](http://www.public.asu.edu/~oboguth/) et [Charles Martineau](http://www.charlesmartineau.com)  
+- **Price Informativeness and FOMC Return Reversals**  
+   avec [Oliver Boguth](http://www.public.asu.edu/~oboguth/), [Adlai Fisher](https://sites.google.com/view/adlai-fisher) et [Charles Martineau](http://www.charlesmartineau.com)  
    [[SocArXiv <i class="ai ai-osf ai-fw "></i>](https://osf.io/preprints/socarxiv/zurfk/)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740)]
 
   - Best Paper on Asset Pricing Award, NFA 2022
@@ -78,9 +78,24 @@ Mes intérêts de recherche comprennent l'économie de l'information, la microst
   avec Javad Yaali et [Thomas Hurtut](http://www.professeurs.polymtl.ca/thomas.hurtut/),  
   [[InfoVis](https://doi.org/10.1177/14738716211064921)]
 
+- **Alternative Data** (chapitre de livre)  
+  Dans [Big Data in Finance: Opportunities and Challenges of Financial Digitalization](https://link.springer.com/book/10.1007/978-3-031-12240-8), Palgrave Macmillan, pp. 13-33, 2022,  
+  avec [Noah Jepson](https://www.linkedin.com/in/noahjep/),  
+  [[Springer](https://link.springer.com/chapter/10.1007/978-3-031-12240-8_2)]
+
+## Autres contributions à la recherche
+
+- **Non-Standard Errors**  
+  À paraître dans _Journal of Finance_,
+  coordonné par [Albert J. Menkveld](https://albertjmenkveld.com/), [Anna Dreber](https://sites.google.com/site/annadreber/), [Felix Holzmeister](https://www.holzmeister.biz/), [Juergen Huber](https://www.uibk.ac.at/ibf/team/huberj.html.en), [Magnus Johannesson](https://www.hhs.se/en/persons/j/johannesson-magnus/), [Michael Kirchler](https://www.uibk.ac.at/ibf/team/kirchler.html.en), [Michael Razen](https://www.uibk.ac.at/ibf/mitarbeiter/razen.html), et [Utz Weitzel](https://research.vu.nl/en/persons/utz-weitzel). (300+ co-auteurs)  
+  [[SSRN](https://dx.doi.org/10.2139/ssrn.3961574)]
+
+  - J'ai fait partie d'une équipe responsable de l'analyse des données et de la rédaction d'un article résumé. Notre _article_ était l'un des cinq meilleurs articles évalués qui ont été partagés avec toutes les équipes lors de la dernière phase du projet. Notre code est disponible [sur GitHub](https://github.com/vgreg/fincap).
+
 ## Documents de travail permanents
 
-- Do Mutual Fund Managers Adjust NAV for Stale Prices? [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1928321)]
+- Do Mutual Fund Managers Adjust NAV for Stale Prices?  
+[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1928321)]
 
 ## Publications pré-doctorat
 

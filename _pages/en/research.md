@@ -14,8 +14,8 @@ Research interests include information economics, market microstructure, big dat
 
 ## Working Papers
 
-- **Noisy FOMC Returns**  
-   with [Oliver Boguth](http://www.public.asu.edu/~oboguth/) and [Charles Martineau](http://www.charlesmartineau.com)  
+- **Price Informativeness and FOMC Return Reversals**  
+   with [Oliver Boguth](http://www.public.asu.edu/~oboguth/), [Adlai Fisher](https://sites.google.com/view/adlai-fisher), and [Charles Martineau](http://www.charlesmartineau.com)  
    [[SocArXiv <i class="ai ai-osf ai-fw "></i>](https://osf.io/preprints/socarxiv/zurfk/)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740)]
 
   - Best Paper on Asset Pricing Award, NFA 2022
@@ -75,14 +75,29 @@ Research interests include information economics, market microstructure, big dat
 
 ## Supervised Student Work
 
-- **HFTViz: Visualization for the exploration of high frequency trading data**
+- **HFTViz: Visualization for the exploration of high frequency trading data**  
   _Information Visualization_, Volume 21, Issue 2, 2022,  
-  with Javad Yaali and [Thomas Hurtut](http://www.professeurs.polymtl.ca/thomas.hurtut/),  
+  with [Javad Yaali](https://www.linkedin.com/in/javadyaali/) and [Thomas Hurtut](http://www.professeurs.polymtl.ca/thomas.hurtut/),  
   [[InfoVis](https://doi.org/10.1177/14738716211064921)]
+
+- **Alternative Data** (book chapter)  
+  In [Big Data in Finance: Opportunities and Challenges of Financial Digitalization](https://link.springer.com/book/10.1007/978-3-031-12240-8), Palgrave Macmillan, pp. 13-33, 2022,  
+  with [Noah Jepson](https://www.linkedin.com/in/noahjep/),  
+  [[Springer](https://link.springer.com/chapter/10.1007/978-3-031-12240-8_2)]
+
+## Other Research Contributions
+
+- **Non-Standard Errors**  
+  Forthcoming in _Journal of Finance_,  
+  coordinated by [Albert J. Menkveld](https://albertjmenkveld.com/), [Anna Dreber](https://sites.google.com/site/annadreber/), [Felix Holzmeister](https://www.holzmeister.biz/), [Juergen Huber](https://www.uibk.ac.at/ibf/team/huberj.html.en), [Magnus Johannesson](https://www.hhs.se/en/persons/j/johannesson-magnus/), [Michael Kirchler](https://www.uibk.ac.at/ibf/team/kirchler.html.en), [Michael Razen](https://www.uibk.ac.at/ibf/mitarbeiter/razen.html), and [Utz Weitzel](https://research.vu.nl/en/persons/utz-weitzel). (300+ co-authors)  
+  [[SSRN](https://dx.doi.org/10.2139/ssrn.3961574)]
+
+  - I was part of a team that was responsible for doing the data analysis and writing a summary paper. Our _paper_ was one of the five best rated papers that were shared with all the teams in the last phase of the project. Our code is available [on GitHub](https://github.com/vgreg/fincap).
 
 ## Forever Working Papers
 
-- Do Mutual Fund Managers Adjust NAV for Stale Prices? [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1928321)]
+- Do Mutual Fund Managers Adjust NAV for Stale Prices?  
+[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1928321)]
 
 ## Pre-PhD Publications
 
