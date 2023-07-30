@@ -5,7 +5,6 @@ author_profile: true
 lang: en
 fr: /code_fr/
 redirect_from:
-#   - /standard-errors-in-python/
   - /code.html
 ---
 
