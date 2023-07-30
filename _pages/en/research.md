@@ -4,7 +4,7 @@ title: "Nicolas Harvie"
 author_profile: true
 lang: en
 fr: /fr/
-# redirect_from:
+redirect_from:
   - /research/
   - /en/
   - /research.html
@@ -14,7 +14,7 @@ My research interests include but are not limited to financial econometrics, ass
 
 ## Working Papers
 
-- Lorem Ipsum
+- TBA
 
 <!-- - **Price Informativeness and FOMC Return Reversals**  
    with [Oliver Boguth](http://www.public.asu.edu/~oboguth/), [Adlai Fisher](https://sites.google.com/view/adlai-fisher), and [Charles Martineau](http://www.charlesmartineau.com)  
