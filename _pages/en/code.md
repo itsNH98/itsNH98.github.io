@@ -6,7 +6,6 @@ lang: en
 fr: /code_fr/
 redirect_from:
 #   - /standard-errors-in-python/
-  - /en
   - /code.html
 ---
 
