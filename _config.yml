@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vincent Grégoire"
+title                    : "Nicolas Harvie"
 title_separator          : "-"
-name                     : &name "Vincent Grégoire"
+name                     : &name "Nicolas Harvie"
 description              : &description "HEC Montréal"
-url                      : https://www.vincentgregoire.com #http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://itsNH98.github.io #http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vincent Grégoire"
-  avatar           : "profile.png"
+  name             : "Nicolas Harvie"
+  avatar           : "profile.jpeg"
   bio              : 
-    en: 'Associate Professor of Finance at <a href="https://www.hec.ca/en/profs/vincent.3.gregoire.html">HEC Montréal</a>'
-    fr: 'Professeur agrégé au département de finance de <a href="https://www.hec.ca/en/profs/vincent.3.gregoire.html">HEC Montréal</a>'
+    en: 'Graduate Student in Finance at HEC Montréal</a>'
+    fr: 'Étudiant aux cycles supérieurs en Finance à HEC Montréal</a>'
   location         : "Montréal, Canada"
   address          : "HEC Montréal<br/>3000, chemin de la Côte-Sainte-Catherine<br/>Montréal (Québec)<br/>Canada H3T 2A7"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=2Ng0rToAAAAJ&hl=fr"
-  email            : "vincent.3.gregoire@hec.ca"
+  googlescholar    : 
+  email            : "nicolas.harvie@hec.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,15 +99,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vgreg"
+  github           : "itsNH98"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "vincent-gr%C3%A9goire-3234b412"
+  linkedin         : "nicolas-harvie-a49972135"
   orcid            : #"http://orcid.org/yourorcidurl"
-  openscience      : "https://osf.io/5qbft/"
+  openscience      : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -119,7 +119,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1006956"
+  ssrn             : 
 
 
 # Reading Files

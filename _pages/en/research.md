@@ -1,20 +1,22 @@
 ---
 permalink: /
-title: "Vincent Grégoire, CFA, Ph.D."
+title: "Nicolas Harvie"
 author_profile: true
 lang: en
 fr: /fr/
-redirect_from:
+# redirect_from:
   - /research/
   - /en/
   - /research.html
 ---
 
-Research interests include information economics, market microstructure, big data and machine learning applications in finance, fintech, and cybersecurity in finance.
+My research interests include but are not limited to financial econometrics, asset pricing and machine learning.
 
 ## Working Papers
 
-- **Price Informativeness and FOMC Return Reversals**  
+- Lorem Ipsum
+
+<!-- - **Price Informativeness and FOMC Return Reversals**  
    with [Oliver Boguth](http://www.public.asu.edu/~oboguth/), [Adlai Fisher](https://sites.google.com/view/adlai-fisher), and [Charles Martineau](http://www.charlesmartineau.com)  
    [[SocArXiv <i class="ai ai-osf ai-fw "></i>](https://osf.io/preprints/socarxiv/zurfk/)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740)]
 
@@ -109,4 +111,4 @@ Research interests include information economics, market microstructure, big dat
 - **Visible and infrared imagery for surveillance applications: software and hardware considerations**  
   _Quantitative InfraRed Thermography Journal_, Volume 4, Issue 1, 2007,  
    with Amar El-Maadi, Louis St-Laurent, Hélène Torresan, Benoit Turgeon, Donald Prévost, Patrick Hébert, Denis Laurendeau, Benoit Ricard and Xavier Maldague,  
-   [[Taylor & Francis](https://doi.org/10.3166/qirt.4.25-40)]
+   [[Taylor & Francis](https://doi.org/10.3166/qirt.4.25-40)] -->

@@ -3,18 +3,14 @@ main:
   en:
     - title: "Research"
       url: /research/
-    - title: "Students"
-      url: /students/
     - title: "Code"
       url: /code/
     - title: "CV"
-      url: /files/CV_Gregoire.pdf
+      url: /files/Nicolas_Harvie_CVEnglish_Updated202308.pdf
   fr:
     - title: "Recherche"
       url: /recherche/
-    - title: "Étudiants"
-      url: /etudiants/
     - title: "Code"
       url: /code_fr/
     - title: "CV"
-      url: /files/CV_Gregoire.pdf
+      url: /files/Nicolas_Harvie_CVFrancais_Updated202308.pdf
