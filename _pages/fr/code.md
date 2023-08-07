@@ -10,13 +10,14 @@ Mon code public est disponible sur [GitHub](https://github.com/itsNH98).
 
 ## Projets en vedette
 
-- TBA
+- [Projet de gestion des risques financiers](https://github.com/itsNH98/financial_risk_management) **Python, R & Matlab** Les principaux objectifs sont de générer des données de rendement de backtesting pour appliquer efficacement des stratégies, de prévoir les mesures de risque pour les portefeuilles de référence et d'évaluer le risque d'ajout de nouvelles stratégies aux portefeuilles existants. De plus, nous visons à améliorer l'outil de manière progressive en incorporant de nouvelles méthodologies avancées telles que la prévision de la volatilité multivariée, les modèles de copule, la théorie des valeurs extrêmes et l'apprentissage automatique.
 
-<!-- - [Standard errors in Python](https://github.com/vgreg/python-se/blob/master/Standard%20errors%20in%20Python.ipynb)  
-  Exemples d'utilisation de différents types d'erreurs de régression en Python avec `statsmodels` et `linearmodels`.
-- [MeatPy](https://github.com/vgreg/MeatPy)  
-  Market Empirical Analysis Toolbox for Python. L'objectif de ce projet est de fournir un code standard pour le traitement et l'analyse des données à haute fréquence d'un carnet d'ordres.
-- [Price Revelation from Insider Trading: Evidence from Hacked Earnings News](https://github.com/vgreg/hacked_earnings_jfe)  
-  Code pour l'article _Price Revelation from Insider Trading: Evidence from Hacked Earnings News_, **Journal of Financial Economics**, Volume 143, Issue 3, 2022.
-- [How is Earnings News Transmitted to Stock Prices?](https://github.com/vgreg/earnings_news_jar)  
-  Code pour l'article _How is Earnings News Transmitted to Stock Prices?_ **Journal of Accounting Research**, Volume 60, Issue 1, 2022. -->
+- [Laboratoires d'économétrie financière](https://github.com/itsNH98/financial_econometrics_labs) **Python** Des laboratoires qui ont été développés comme une vitrine pour une pratique adéquate afin d'aider les étudiants à accomplir leurs devoirs dans MATH60210. Les sujets abordés comprennent les modèles d'évaluation des actifs, la prédiction des séries chronologiques financières, l'estimation de modèles, la modélisation du risque et de la volatilité, ainsi que les études d'événements.
+
+- [Stratégie Momentum cryptomonnaies](https://github.com/itsNH98/cryptocurrency_momentum_strategy) **Python, R** Ce projet de recherche présente une stratégie de trading basée sur la cryptographie qui intègre le momentum des prix, la taille et l'attention des investisseurs pour créer une approche d'investissement robuste et efficace. La base de la stratégie est issue des recherches menées par Yang (2019), Liu (2021) et Liu (2022), qui soutiennent collectivement l'inclusion du momentum des prix, de la taille et de l'attention dans le cadre de trading.
+
+- [Aléatorisation des décimales FF](https://github.com/itsNH98/ff_decimals_randomization) **Python** En utilisant le panel de prédicteurs clairs de Chen et Zimmerman (2020), nous déterminons l'impact des erreurs d'arrondi induites par l'approximation des décimales impliquée dans la construction des facteurs Fama-French sur deux types de tests d'évaluation des actifs (Fama & French, 1992) (Fama & Macbeth, 1973). Conclusions à déterminer...
+
+- [Finance d'entreprise en Stata](https://github.com/itsNH98/corporate_finance) **Stata** L'objectif est de reproduire certains articles importants sur la finance d'entreprise sur Stata afin d'acquérir une connaissance pratique du langage.
+
+- [Décroissance de l'Alpha](https://github.com/itsNH98/alpha_decay) **Python** Nous savons que les anomalies du marché efficient perdent de leur signification au fil du temps, et surtout après leur publication. Notre objectif est d'évaluer et de démontrer l'existence de la décroissance d'alpha post-publication et de la perte statistique des anomalies du marché au fil du temps.
