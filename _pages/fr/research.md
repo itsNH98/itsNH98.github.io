@@ -10,9 +10,11 @@ redirect_from:
 
 Mes intérêts de recherche incluent l'économétrie financière, l'évaluation d'actifs et l'apprentissage automatique.
 
-## Recherche Académique
+## Documents de Travail
 
-- **MSc. Thesis: Robust inference in linear asset pricing tests** supervisé par [Vincent Grégoire](https://www.hec.ca/en/profs/vincent.gregoire.html) et [Anthony Sanford](https://www.hec.ca/en/profs/anthony.sanford.html)
+- **Size distortions in Robust Estimators: Implications for asset pricing** avec [Vincent Grégoire](https://www.hec.ca/en/profs/vincent.gregoire.html) et [Anthony Sanford](https://www.hec.ca/en/profs/anthony.sanford.html) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4640678)]
+
+## Publications
 
 <!-- - **Price Informativeness and FOMC Return Reversals**  
    avec [Oliver Boguth](http://www.public.asu.edu/~oboguth/), [Adlai Fisher](https://sites.google.com/view/adlai-fisher) et [Charles Martineau](http://www.charlesmartineau.com)  

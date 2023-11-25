@@ -10,11 +10,13 @@ redirect_from:
   - /research.html
 ---
 
-My research interests include but are not limited to financial econometrics, asset pricing and machine learning.
+My research interests include but are not limited to applied financial econometrics, asset pricing and machine learning.
 
-## Academic Research
+## Working Papers 
 
-- **MSc. Thesis: Robust inference in linear asset pricing tests** supervised by [Vincent Grégoire](https://www.hec.ca/en/profs/vincent.gregoire.html) and [Anthony Sanford](https://www.hec.ca/en/profs/anthony.sanford.html)
+- **Size distortions in Robust Estimators: Implications for asset pricing** with [Vincent Grégoire](https://www.hec.ca/en/profs/vincent.gregoire.html) and [Anthony Sanford](https://www.hec.ca/en/profs/anthony.sanford.html) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4640678)]
+
+## Publications
 
 <!-- - **Price Informativeness and FOMC Return Reversals**  
    with [Oliver Boguth](http://www.public.asu.edu/~oboguth/), [Adlai Fisher](https://sites.google.com/view/adlai-fisher), and [Charles Martineau](http://www.charlesmartineau.com)  
