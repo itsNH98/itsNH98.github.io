@@ -10,9 +10,9 @@ redirect_from:
   - /research.html
 ---
 
-My research interests include but are not limited to applied financial econometrics, asset pricing and machine learning.
+Asset pricing, applied financial econometrics and machine learning.
 
-## Working Papers 
+## Working Papers
 
 - **Size distortions in Robust Estimators: Implications for asset pricing** with [Vincent Grégoire](https://www.hec.ca/en/profs/vincent.gregoire.html) and [Anthony Sanford](https://www.hec.ca/en/profs/anthony.sanford.html) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4640678)]
 

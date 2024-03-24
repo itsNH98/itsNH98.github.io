@@ -8,7 +8,7 @@ redirect_from:
   - /recherche/
 ---
 
-Mes intérêts de recherche incluent l'économétrie financière, l'évaluation d'actifs et l'apprentissage automatique.
+Évaluation d'actifs, économétrie financière appliquée et apprentissage automatique.
 
 ## Documents de Travail
 
