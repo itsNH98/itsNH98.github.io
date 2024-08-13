@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Nicolas Harvie"
-  avatar           : "profile.jpeg"
+  avatar           : "profile_new.jpg"
   bio              : 
-    en: 'Upcoming PhD Student in Finance, Rotman School of Management, University of Toronto</a>'
-    fr: 'Futur doctorant en Finance, Rotman School of Management, Université de Toronto</a>'
+    en: 'PhD Candidate in Finance, Rotman School of Management, University of Toronto</a>'
+    fr: 'Doctorant en Finance, Rotman School of Management, Université de Toronto</a>'
   location         : "Montréal, Canada"
   address          : "Rotman School of Management<br/>105 St George St<br/>Toronto (Ontario)<br/>Canada ON M5S 3E6"
   employer         : 
