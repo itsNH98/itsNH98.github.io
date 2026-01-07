@@ -4,7 +4,8 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  border-bottom: none;
+  background: linear-gradient(135deg, #1e3a5f 0%, #2563eb 100%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
@@ -46,8 +47,21 @@
   list-style-type: none;
   white-space: nowrap;
 
+  a {
+    color: rgba(255, 255, 255, 0.9) !important;
+    transition: color 0.2s ease;
+
+    &:hover {
+      color: #fff !important;
+    }
+  }
+
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+
+    a {
+      color: #fff !important;
+    }
   }
 }
