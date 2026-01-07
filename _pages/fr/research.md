@@ -8,7 +8,7 @@ redirect_from:
   - /recherche/
 ---
 
-Évaluation d'actifs, économétrie financière appliquée et apprentissage automatique.
+J'étudie **l'économie de l'information dans les marchés financiers** — comment les croyances se forment, s'agrègent et influencent les prix. Mes travaux combinent la microstructure des marchés et l'évaluation comportementale des actifs, avec des applications dans les marchés boursiers, les marchés de prédiction et le trading de détail.
 
 ## Documents de Travail
 

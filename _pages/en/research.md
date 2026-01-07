@@ -10,7 +10,7 @@ redirect_from:
   - /research.html
 ---
 
-Asset pricing, applied financial econometrics and machine learning.
+I study **information economics in financial markets** — how beliefs form, aggregate, and move prices. My work combines market microstructure and behavioral asset pricing, with applications in equity markets, prediction markets, and retail trading.
 
 ## Working Papers
 

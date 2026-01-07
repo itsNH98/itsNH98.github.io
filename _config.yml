@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nicolas Harvie"
 title_separator          : "-"
 name                     : &name "Nicolas Harvie"
-description              : &description "HEC Montréal"
+description              : &description "Information economics in financial markets"
 url                      : https://itsNH98.github.io #http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nicolas Harvie"
   avatar           : "profile_new.jpg"
-  bio              : 
-    en: 'PhD Candidate in Finance, Rotman School of Management, University of Toronto</a>'
-    fr: 'Doctorant en Finance, Rotman School of Management, Université de Toronto</a>'
+  bio              :
+    en: 'PhD Candidate in Finance<br/>Rotman School of Management<br/>University of Toronto'
+    fr: 'Doctorant en Finance<br/>Rotman School of Management<br/>Université de Toronto'
   location         : "Montréal, Canada"
   address          : "Rotman School of Management<br/>105 St George St<br/>Toronto (Ontario)<br/>Canada ON M5S 3E6"
   employer         : 
