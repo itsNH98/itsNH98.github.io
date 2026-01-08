@@ -35,7 +35,7 @@ where $\mathbb{Q}$ is the risk-neutral measure. Market prices reflect $\mathbb{Q
 
 ## An example: recession contracts
 
-Suppose you believe there is a 10% physical probability of recession next year. Would you pay 10 cents for a contract paying $1 if recession occurs?
+Consider [Polymarket's recession contract](https://polymarket.com/event/us-recession-by-end-of-2026). Suppose you believe there is a 10% physical probability of recession. Would you pay 10 cents for a contract paying $1 if recession occurs?
 
 I would argue that you probably would not. In a recession, your portfolio is down, your job is at risk, and that dollar matters more. The contract pays off when marginal utility is high. This is insurance, and insurance commands a premium above the actuarially fair price.
 
