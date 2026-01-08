@@ -4,12 +4,12 @@
 <script>
   (function() {
     var toggle = document.getElementById('dark-mode-toggle');
-    var icon = toggle ? toggle.querySelector('i') : null;
+    var icon = document.getElementById('theme-icon');
 
     function updateIcon() {
       if (!icon) return;
       var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-      icon.className = isDark ? 'fas fa-sun' : 'fas fa-moon';
+      icon.textContent = isDark ? '☀️' : '🌙';
     }
 
     function toggleTheme() {
