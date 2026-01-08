@@ -2,34 +2,22 @@
 
 <!-- Dark mode toggle -->
 <script>
-  (function() {
+  document.addEventListener('DOMContentLoaded', function() {
     var toggle = document.getElementById('dark-mode-toggle');
-
-    function toggleTheme() {
-      var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-      if (isDark) {
-        document.documentElement.removeAttribute('data-theme');
-        localStorage.setItem('theme', 'light');
-      } else {
-        document.documentElement.setAttribute('data-theme', 'dark');
-        localStorage.setItem('theme', 'dark');
-      }
-
-      // Update Giscus theme if present
-      var giscusFrame = document.querySelector('iframe.giscus-frame');
-      if (giscusFrame) {
-        var newTheme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
-        giscusFrame.contentWindow.postMessage({ giscus: { setConfig: { theme: newTheme } } }, 'https://giscus.app');
-      }
-    }
-
     if (toggle) {
-      toggle.addEventListener('click', function(e) {
+      toggle.onclick = function(e) {
         e.preventDefault();
-        toggleTheme();
-      });
+        var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        if (isDark) {
+          document.documentElement.removeAttribute('data-theme');
+          localStorage.setItem('theme', 'light');
+        } else {
+          document.documentElement.setAttribute('data-theme', 'dark');
+          localStorage.setItem('theme', 'dark');
+        }
+      };
     }
-  })();
+  });
 </script>
 
 {% include analytics.html %}
