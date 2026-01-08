@@ -122,6 +122,19 @@ blockquote {
   }
 }
 
+/* Show/hide icons based on theme */
+.theme-icon-dark {
+  display: none;
+}
+
+[data-theme="dark"] .theme-icon-light {
+  display: none;
+}
+
+[data-theme="dark"] .theme-icon-dark {
+  display: inline;
+}
+
 /* Giscus dark mode support */
 [data-theme="dark"] .giscus {
   --giscus-theme: dark;

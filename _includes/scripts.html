@@ -4,13 +4,6 @@
 <script>
   (function() {
     var toggle = document.getElementById('dark-mode-toggle');
-    var icon = document.getElementById('theme-icon');
-
-    function updateIcon() {
-      if (!icon) return;
-      var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-      icon.textContent = isDark ? '☀️' : '🌙';
-    }
 
     function toggleTheme() {
       var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
@@ -21,7 +14,6 @@
         document.documentElement.setAttribute('data-theme', 'dark');
         localStorage.setItem('theme', 'dark');
       }
-      updateIcon();
 
       // Update Giscus theme if present
       var giscusFrame = document.querySelector('iframe.giscus-frame');
@@ -36,7 +28,6 @@
         e.preventDefault();
         toggleTheme();
       });
-      updateIcon();
     }
   })();
 </script>
