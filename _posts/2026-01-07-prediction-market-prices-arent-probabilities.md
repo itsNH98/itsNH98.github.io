@@ -11,9 +11,9 @@ This distinction is well understood in theory but routinely ignored in practice,
 
 ## When prices equal probabilities
 
-Prediction market prices equal physical probabilities under specific conditions. Wolfers and Zitzewitz (2004) and Manski (2006) establish that this equivalence holds when traders are risk-neutral and hold homogeneous beliefs. Snowberg, Wolfers, and Zitzewitz (2013) provide a comprehensive treatment: with risk-neutral agents, the market price of an Arrow-Debreu security paying $1 in state *s* equals the consensus probability of *s*.
+When can we interpret prediction market prices as probabilities? This question sparked a notable exchange in the literature. Manski (2006) showed that under risk-neutral trading, prices do not generally equal mean beliefs. Instead, price only partially identifies the central tendency of beliefs, lying in an interval whose midpoint is the equilibrium price. Wolfers and Zitzewitz (2006) responded by providing sufficient conditions under which prices do approximate mean beliefs: with log utility, for instance, prices exactly equal mean beliefs across traders. They show that for most plausible parameters, prices are close to mean beliefs, even if not identical.
 
-The problem is that these conditions rarely hold for events that load on aggregate states.
+Both papers, however, assume away risk premia. The problem is that this assumption rarely holds for events that load on aggregate states.
 
 ## P vs Q: physical and risk-neutral measures
 
@@ -55,7 +55,7 @@ Distinguishing the risk premium channel from behavioral explanations is the hard
 
 ## Conclusion
 
-Snowberg, Wolfers, and Zitzewitz (2013) are careful to note that "prices equal probabilities" requires risk neutrality. For macro and catastrophe events, this assumption is almost certainly violated. Market prices for these contracts are better understood as risk-neutral probabilities $\mathbb{Q}(E)$, which incorporate both beliefs and risk premia.
+Even Wolfers and Zitzewitz (2006), who defend the practice of treating prices as probabilities, are careful to note that their results require assumptions about risk preferences. For macro and catastrophe events, risk neutrality is almost certainly violated. Market prices for these contracts are better understood as risk-neutral probabilities $\mathbb{Q}(E)$, which incorporate both beliefs and risk premia.
 
 Next time someone quotes a prediction market "probability" for a recession or crisis, it is worth asking: how much of that number is belief, and how much is insurance?
 
@@ -65,9 +65,7 @@ Next time someone quotes a prediction market "probability" for a recession or cr
 
 Manski, C. F. (2006). Interpreting the predictions of prediction markets. *Economics Letters*, 91(3), 425-429.
 
-Snowberg, E., Wolfers, J., & Zitzewitz, E. (2013). Prediction markets for economic forecasting. In *Handbook of Economic Forecasting* (Vol. 2, pp. 657-687). Elsevier.
-
-Wolfers, J., & Zitzewitz, E. (2004). Prediction markets. *Journal of Economic Perspectives*, 18(2), 107-126.
+Wolfers, J., & Zitzewitz, E. (2006). Interpreting prediction market prices as probabilities. NBER Working Paper No. 12200.
 
 ---
 
