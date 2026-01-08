@@ -37,7 +37,7 @@ In March 2025, the theory met practice. An actor known as "BornTooLate.Eth" accu
 
 Interestingly, nobody appears to have made much money from the attack. But the episode demonstrated the vulnerability: sufficient token accumulation can contestably influence outcomes, and the cost of doing so does not automatically scale with the value at stake.
 
-Note that Polymarket has since moved to a system of whitelisted proposers for resolution, though it is not clear this was a direct response to the March 2025 event. Regardless, the shift effectively centralizes the oracle function. The "decentralized" prediction market now relies on a curated set of trusted resolvers.
+Note that Polymarket has since moved to a system of [whitelisted proposers](https://docs.uma.xyz/developers/managedoptimisticoraclev2/default-proposer-whitelist) for resolution, though it is not clear this was a direct response to the March 2025 event. To qualify for the whitelist, addresses must demonstrate at least five proposals with greater than 95% accuracy over the preceding six months. The whitelist is managed by Risk Labs and updated monthly. Regardless of intent, the shift effectively centralizes the oracle function. The "decentralized" prediction market now relies on a curated set of trusted resolvers.
 
 ## The irony
 

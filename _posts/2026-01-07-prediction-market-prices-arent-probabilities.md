@@ -25,7 +25,7 @@ where *m* is the stochastic discount factor and $\mathbb{P}$ denotes the physica
 
 $$p = \mathbb{P}(E) \cdot \mathbb{E}^{\mathbb{P}}[m | E]$$
 
-The price equals the physical probability $\mathbb{P}(E)$ scaled by the conditional expected SDF. When *E* occurs in states where marginal utility is high (bad states), $\mathbb{E}^{\mathbb{P}}[m | E] > \mathbb{E}^{\mathbb{P}}[m]$, and the price exceeds the physical probability.
+The price equals the physical probability scaled by the conditional expected SDF. When *E* occurs in states where marginal utility is high (bad states), the conditional SDF exceeds its unconditional expectation, and the price exceeds the physical probability.
 
 Equivalently, we can write:
 
