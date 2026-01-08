@@ -112,19 +112,21 @@ blockquote {
 }
 
 /* Dark mode toggle button */
-.dark-mode-toggle {
-  background: none;
-  border: none;
+.greedy-nav .visible-links .dark-mode-toggle {
+  position: relative !important;
+  height: auto !important;
+  right: auto !important;
+  background: transparent !important;
+  border: none !important;
   cursor: pointer;
-  padding: 0.5em;
-  margin-left: 0.5em;
-  color: var(--text-color);
-  font-size: 1.1em;
-  vertical-align: middle;
-  transition: color 0.3s ease;
+  padding: 0.5rem 0;
+  margin: 0 1rem;
+  font-size: 1.3em;
+  line-height: 1;
+  display: inline-block;
 
   &:hover {
-    color: var(--link-color);
+    opacity: 0.7;
   }
 
   &:focus {
