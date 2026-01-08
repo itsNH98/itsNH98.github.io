@@ -3,6 +3,8 @@ main:
   en:
     - title: "Research"
       url: /research/
+    - title: "Blog"
+      url: /blog/
     - title: "Code"
       url: /code/
     - title: "CV"
@@ -10,6 +12,8 @@ main:
   fr:
     - title: "Recherche"
       url: /recherche/
+    - title: "Blog"
+      url: /blog/
     - title: "Code"
       url: /code_fr/
     - title: "CV"

@@ -1,0 +1,74 @@
+---
+layout: single
+title: "Prediction Market Prices Aren't Probabilities"
+date: 2026-01-07
+author_profile: true
+---
+
+Prediction markets are everywhere now. Polymarket shows "Trump 62%," experts cite it as the wisdom of crowds, and everyone treats these numbers as probabilities. I want to push back on this interpretation: that 62% is not a probability. It is a price.
+
+This distinction is well understood in theory but routinely ignored in practice, and I think it deserves more attention.
+
+## When prices equal probabilities
+
+Prediction market prices equal physical probabilities under specific conditions. Wolfers and Zitzewitz (2004) and Manski (2006) establish that this equivalence holds when traders are risk-neutral and hold homogeneous beliefs. Snowberg, Wolfers, and Zitzewitz (2013) provide a comprehensive treatment: with risk-neutral agents, the market price of an Arrow-Debreu security paying $1 in state *s* equals the consensus probability of *s*.
+
+The problem is that these conditions rarely hold for events that load on aggregate states.
+
+## P vs Q: physical and risk-neutral measures
+
+Consider a prediction market contract paying $1 if event *E* occurs. Under no-arbitrage, the price satisfies:
+
+$$p = \mathbb{E}^{\mathbb{P}}[m \cdot \mathbf{1}_E]$$
+
+where *m* is the stochastic discount factor and $\mathbb{P}$ denotes the physical probability measure. Decomposing this:
+
+$$p = \mathbb{P}(E) \cdot \mathbb{E}^{\mathbb{P}}[m | E]$$
+
+The price equals the physical probability $\mathbb{P}(E)$ scaled by the conditional expected SDF. When *E* occurs in states where marginal utility is high (bad states), $\mathbb{E}^{\mathbb{P}}[m | E] > \mathbb{E}^{\mathbb{P}}[m]$, and the price exceeds the physical probability.
+
+Equivalently, we can write:
+
+$$p = \mathbb{Q}(E) \cdot \mathbb{E}^{\mathbb{P}}[m]$$
+
+where $\mathbb{Q}$ is the risk-neutral measure. Market prices reflect $\mathbb{Q}(E)$, not $\mathbb{P}(E)$. The gap between the two is the risk premium.
+
+## An example: recession contracts
+
+Suppose you believe there is a 10% physical probability of recession next year. Would you pay 10 cents for a contract paying $1 if recession occurs?
+
+I would argue that you probably would not. In a recession, your portfolio is down, your job is at risk, and that dollar matters more. The contract pays off when marginal utility is high. This is insurance, and insurance commands a premium above the actuarially fair price.
+
+This is not mispricing. It is the $\mathbb{P}$ to $\mathbb{Q}$ wedge at work.
+
+## What this implies
+
+When Kalshi's recession contract trades above economists' survey probability, commentators may say that this is miscalibration or evidence of irrational pessimism. But I would suggest this simply reflects the insurance premium embedded in bad-state contingent claims.
+
+The testable implications are straightforward:
+
+1. Contracts on bad-state events (recession, inflation, geopolitical crises) should trade above physical probability proxies on average
+2. This wedge should widen when aggregate risk measures (VIX, credit spreads) are elevated
+3. Contracts on events orthogonal to aggregate risk (sports, entertainment) should not exhibit this pattern
+
+Distinguishing the risk premium channel from behavioral explanations is the hard part, since both predict $p > \mathbb{P}(E)$ for bad-state events. The state-dependence prediction offers some discriminating power.
+
+## Conclusion
+
+Snowberg, Wolfers, and Zitzewitz (2013) are careful to note that "prices equal probabilities" requires risk neutrality. For macro and catastrophe events, this assumption is almost certainly violated. Market prices for these contracts are better understood as risk-neutral probabilities $\mathbb{Q}(E)$, which incorporate both beliefs and risk premia.
+
+Next time someone quotes a prediction market "probability" for a recession or crisis, it is worth asking: how much of that number is belief, and how much is insurance?
+
+---
+
+**References**
+
+Manski, C. F. (2006). Interpreting the predictions of prediction markets. *Economics Letters*, 91(3), 425-429.
+
+Snowberg, E., Wolfers, J., & Zitzewitz, E. (2013). Prediction markets for economic forecasting. In *Handbook of Economic Forecasting* (Vol. 2, pp. 657-687). Elsevier.
+
+Wolfers, J., & Zitzewitz, E. (2004). Prediction markets. *Journal of Economic Perspectives*, 18(2), 107-126.
+
+---
+
+*This is a condensed version of a research idea I am developing. The full version involves testing whether the P-Q wedge exists empirically and varies with aggregate risk. Measuring physical probabilities turns out to be harder than it sounds, which is part of what makes this interesting.*
