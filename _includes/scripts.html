@@ -1,4 +1,42 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<!-- Dark mode toggle -->
+<script>
+  (function() {
+    var toggle = document.getElementById('dark-mode-toggle');
+    var icon = toggle ? toggle.querySelector('i') : null;
+
+    function updateIcon() {
+      if (!icon) return;
+      var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      icon.className = isDark ? 'fas fa-sun' : 'fas fa-moon';
+    }
+
+    function toggleTheme() {
+      var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      if (isDark) {
+        document.documentElement.removeAttribute('data-theme');
+        localStorage.setItem('theme', 'light');
+      } else {
+        document.documentElement.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+      }
+      updateIcon();
+
+      // Update Giscus theme if present
+      var giscusFrame = document.querySelector('iframe.giscus-frame');
+      if (giscusFrame) {
+        var newTheme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+        giscusFrame.contentWindow.postMessage({ giscus: { setConfig: { theme: newTheme } } }, 'https://giscus.app');
+      }
+    }
+
+    if (toggle) {
+      toggle.addEventListener('click', toggleTheme);
+      updateIcon();
+    }
+  })();
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

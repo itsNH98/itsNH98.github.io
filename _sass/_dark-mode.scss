@@ -1,0 +1,138 @@
+/* ==========================================================================
+   Dark Mode
+   ========================================================================== */
+
+/* CSS Custom Properties for theming */
+:root {
+  --bg-color: #fff;
+  --text-color: #1f2937;
+  --text-color-light: #6b7280;
+  --border-color: #e5e7eb;
+  --code-bg: #f8fafc;
+  --link-color: #2563eb;
+  --link-hover: #1d4ed8;
+  --masthead-bg: rgba(255, 255, 255, 0.9);
+  --card-bg: #fff;
+  --blockquote-border: #e5e7eb;
+}
+
+[data-theme="dark"] {
+  --bg-color: #111827;
+  --text-color: #e5e7eb;
+  --text-color-light: #9ca3af;
+  --border-color: #374151;
+  --code-bg: #1f2937;
+  --link-color: #60a5fa;
+  --link-hover: #93c5fd;
+  --masthead-bg: rgba(17, 24, 39, 0.95);
+  --card-bg: #1f2937;
+  --blockquote-border: #374151;
+}
+
+/* Apply CSS variables to elements */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+  color: var(--link-color);
+
+  &:hover {
+    color: var(--link-hover);
+  }
+}
+
+.masthead {
+  background-color: var(--masthead-bg);
+  border-bottom-color: var(--border-color);
+}
+
+.masthead__menu-item a {
+  color: var(--text-color);
+
+  &:hover {
+    color: var(--link-color);
+  }
+}
+
+.page__content {
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--text-color);
+  }
+
+  p, li {
+    color: var(--text-color);
+  }
+}
+
+.sidebar {
+  color: var(--text-color);
+}
+
+.author__name {
+  color: var(--text-color);
+}
+
+.author__bio {
+  color: var(--text-color-light);
+}
+
+code {
+  background-color: var(--code-bg);
+}
+
+pre {
+  background-color: var(--code-bg);
+  border-color: var(--border-color);
+}
+
+blockquote {
+  border-left-color: var(--blockquote-border);
+  color: var(--text-color-light);
+}
+
+.page__footer {
+  background-color: var(--bg-color);
+  border-top-color: var(--border-color);
+  color: var(--text-color-light);
+}
+
+.archive__item-title a {
+  color: var(--text-color);
+
+  &:hover {
+    color: var(--link-color);
+  }
+}
+
+.archive__item-excerpt {
+  color: var(--text-color-light);
+}
+
+/* Dark mode toggle button */
+.dark-mode-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0.5em;
+  margin-left: 0.5em;
+  color: var(--text-color);
+  font-size: 1.1em;
+  vertical-align: middle;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: var(--link-color);
+  }
+
+  &:focus {
+    outline: none;
+  }
+}
+
+/* Giscus dark mode support */
+[data-theme="dark"] .giscus {
+  --giscus-theme: dark;
+}
