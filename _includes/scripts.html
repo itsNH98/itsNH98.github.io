@@ -32,7 +32,10 @@
     }
 
     if (toggle) {
-      toggle.addEventListener('click', toggleTheme);
+      toggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        toggleTheme();
+      });
       updateIcon();
     }
   })();
