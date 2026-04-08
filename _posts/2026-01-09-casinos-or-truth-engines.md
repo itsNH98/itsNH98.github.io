@@ -37,7 +37,7 @@ This pattern is not surprising. Prediction markets reward information and sophis
 
 Even if informed traders merely break even after accounting for their research costs, the retail traders still lose. Their losses fund the information acquisition that makes prices accurate. This is the real cost of information aggregation: someone has to pay for the research, and in prediction markets, it is the less-informed participants.
 
-If utility is concave, this transfer is welfare-reducing. A hundred retail traders each losing \$100 experience more aggregate utility loss than a sophisticated trader gains from \$10,000 that merely covers their research costs. The market "works" in the sense that prices are accurate, but the cost of that accuracy falls disproportionately on those least able to bear it.
+If utility is concave, this transfer is welfare-reducing. A hundred retail traders each losing &#36;100 experience more aggregate utility loss than a sophisticated trader gains from &#36;10,000 that merely covers their research costs. The market "works" in the sense that prices are accurate, but the cost of that accuracy falls disproportionately on those least able to bear it.
 
 ## When are prediction markets worth it?
 
