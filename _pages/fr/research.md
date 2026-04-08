@@ -12,7 +12,9 @@ J'étudie **l'économie de l'information dans les marchés financiers** — comm
 
 ## Documents de Travail
 
-- **Size distortions in Robust Estimators: Implications for asset pricing** avec [Vincent Grégoire](https://www.hec.ca/en/profs/vincent.gregoire.html) et [Anthony Sanford](https://www.hec.ca/en/profs/anthony.sanford.html) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4640678)]
+- **Who Wins and Who Loses In Prediction Markets? Evidence from Polymarket** avec [Pat Akey](https://sites.google.com/view/patakey/home), [Vincent Grégoire](https://www.vincentgregoire.com/) et [Charles Martineau](https://www.charlesmartineau.com/) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103)]
+
+- **Size distortions in Robust Estimators: Implications for asset pricing** avec [Vincent Grégoire](https://www.vincentgregoire.com/) et [Anthony Sanford](https://www.anthonysanford.com/#) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4640678)]
 
 ## Publications
 
