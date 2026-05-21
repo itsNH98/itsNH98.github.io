@@ -4,6 +4,7 @@ title: "Code"
 author_profile: true
 lang: en
 fr: /code_fr/
+published: false
 redirect_from:
   - /code.html
 ---

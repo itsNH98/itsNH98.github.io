@@ -4,6 +4,7 @@ title: "Code"
 author_profile: true
 lang: fr
 en: /code/
+published: false
 ---
 
 Mon code public est disponible sur [GitHub](https://github.com/itsNH98).

@@ -5,8 +5,8 @@ main:
       url: /research/
     - title: "Blog"
       url: /blog/
-    - title: "Code"
-      url: /code/
+    # - title: "Code"
+    #   url: /code/
     - title: "CV"
       url: /files/Nicolas_Harvie_CVEnglish.pdf
   fr:
@@ -14,7 +14,7 @@ main:
       url: /recherche/
     - title: "Blog"
       url: /blog/
-    - title: "Code"
-      url: /code_fr/
+    # - title: "Code"
+    #   url: /code_fr/
     - title: "CV"
       url: /files/Nicolas_Harvie_CVFrancais.pdf
