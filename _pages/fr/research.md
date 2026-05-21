@@ -12,21 +12,21 @@ J'étudie **l'économie de l'information dans les marchés financiers** — comm
 
 ## Documents de Travail
 
-- **Who Wins and Who Loses In Prediction Markets? Evidence from Polymarket** avec [Pat Akey](https://sites.google.com/view/patakey/home), [Vincent Grégoire](https://www.vincentgregoire.com/) et [Charles Martineau](https://www.charlesmartineau.com/) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103)] [[Données <i class="fas fa-fw fa-database" aria-hidden="true"></i>](https://huggingface.co/datasets/vgregoire/polymarket-users)]
+- **Who Wins and Who Loses In Prediction Markets? Evidence from Polymarket** avec [Pat Akey](https://sites.google.com/view/patakey/home), [Vincent Grégoire](https://www.vincentgregoire.com/) et [Charles Martineau](https://www.charlesmartineau.com/) [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103)] [[Données <i class="fas fa-fw fa-database" aria-hidden="true"></i>](https://huggingface.co/datasets/vgregoire/polymarket-users)]
 
-- **Size distortions in Robust Estimators: Implications for asset pricing** avec [Vincent Grégoire](https://www.vincentgregoire.com/) et [Anthony Sanford](https://www.anthonysanford.com/#) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4640678)]
+- **Size distortions in Robust Estimators: Implications for asset pricing** avec [Vincent Grégoire](https://www.vincentgregoire.com/) et [Anthony Sanford](https://www.anthonysanford.com/#) [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4640678)]
 
 ## Publications
 
 <!-- - **Price Informativeness and FOMC Return Reversals**  
    avec [Oliver Boguth](http://www.public.asu.edu/~oboguth/), [Adlai Fisher](https://sites.google.com/view/adlai-fisher) et [Charles Martineau](http://www.charlesmartineau.com)  
-   [[SocArXiv <i class="ai ai-osf ai-fw "></i>](https://osf.io/preprints/socarxiv/zurfk/)] [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740)]
+   [[SocArXiv <i class="ai ai-osf ai-fw "></i>](https://osf.io/preprints/socarxiv/zurfk/)] [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740)]
 
   - Best Paper on Asset Pricing Award, NFA 2022
 
 - **Double Bonus? Implicit Incentives for Money Managers with Explicit Incentives**  
    avec [Juan Sotes-Paladino](https://sites.google.com/site/jmsotespaladino/home)  
-  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2980599)]
+  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2980599)]
 
 ## Publications
 
@@ -35,7 +35,7 @@ J'étudie **l'économie de l'information dans les marchés financiers** — comm
    avec [Pat Akey](http://patakeyfinance.com) et [Charles Martineau](http://www.charlesmartineau.com),  
   [[JFE <i class="ai ai-open-access ai-fw "></i>](https://doi.org/10.1016/j.jfineco.2021.12.006)]
   [[SocArXiv <i class="ai ai-osf ai-fw "></i>](https://osf.io/preprints/socarxiv/qe6tu/)]
-  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024)]
+  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024)]
   [[Code <i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/vgreg/hacked_earnings_jfe)]
 
   - [Article sur Bloomberg.com](https://www.bloomberg.com/news/articles/2019-04-22/the-market-knew-about-the-press-release-hackers-before-the-cops), 2019
@@ -45,14 +45,14 @@ J'étudie **l'économie de l'information dans les marchés financiers** — comm
   _Journal of Accounting Research_, Volume 60, Issue 1, 2022,  
    avec [Charles Martineau](http://www.charlesmartineau.com),  
   [[JAR <i class="ai ai-open-access ai-fw "></i>](https://doi.org/10.1111/1475-679X.12394)]
-  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094)]
+  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094)]
   [[Code <i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/vgreg/earnings_news_jar)]
 
 - **Inverted Fee Structures, Tick Size, and Market Quality**  
   _Journal of Financial Economics_, Volume 134, Issue 1, 2019,  
    avec [Carole Comerton-Forde](https://fbe.unimelb.edu.au/our-people/staff/finance/carole-comerton-forde2) et [Zhuo Zhong](http://www.joe-zh.com/),  
    [[JFE](https://doi.org/10.1016/j.jfineco.2019.03.005)]
-  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939012)]
+  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939012)]
   [[Online Appendix](/files/appendices/adf-tsp-appendix.pdf)]
 
   - Best Paper on Market Microstructure Award, NFA 2017
@@ -61,7 +61,7 @@ J'étudie **l'économie de l'information dans les marchés financiers** — comm
   _Journal of Financial and Quantitative Analysis_, Volume 54, Issue 6, 2019,  
   avec [Oliver Boguth](http://www.public.asu.edu/~oboguth/) et [Charles Martineau](http://www.charlesmartineau.com),  
   [[JFQA](https://doi.org/10.1017/S0022109018001357)]
-  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2698477)]
+  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2698477)]
   [[Internet Appendix](/files/appendices/FOMC_PC_InternetAppendix.pdf)]
 
   **Note**: Depuis janvier 2019, le président de la Réserve fédérale tient désormais une conférence de presse après chaque réunion, qui est la principale recommandation politique de l'article. Un post-scriptum à la fin de l'article aborde ce point.
@@ -74,7 +74,7 @@ J'étudie **l'économie de l'information dans les marchés financiers** — comm
 - **The Rise of Passive Investing and Index-linked Comovement**  
   _North American Journal of Economics and Finance_, Volume 51, 101059, 2020,  
   [[NAJEF](https://doi.org/10.1016/j.najef.2019.101059)]
-  [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2308695)]
+  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2308695)]
   [[Internet Appendix](/files/appendices/indexers_appendix.pdf)]
 
 ## Travaux étudiants supervisés
@@ -94,14 +94,14 @@ J'étudie **l'économie de l'information dans les marchés financiers** — comm
 - **Non-Standard Errors**  
   À paraître dans _Journal of Finance_,
   coordonné par [Albert J. Menkveld](https://albertjmenkveld.com/), [Anna Dreber](https://sites.google.com/site/annadreber/), [Felix Holzmeister](https://www.holzmeister.biz/), [Juergen Huber](https://www.uibk.ac.at/ibf/team/huberj.html.en), [Magnus Johannesson](https://www.hhs.se/en/persons/j/johannesson-magnus/), [Michael Kirchler](https://www.uibk.ac.at/ibf/team/kirchler.html.en), [Michael Razen](https://www.uibk.ac.at/ibf/mitarbeiter/razen.html), et [Utz Weitzel](https://research.vu.nl/en/persons/utz-weitzel). (300+ co-auteurs)  
-  [[SSRN](https://dx.doi.org/10.2139/ssrn.3961574)]
+  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://dx.doi.org/10.2139/ssrn.3961574)]
 
   - J'ai fait partie d'une équipe responsable de l'analyse des données et de la rédaction d'un article résumé. Notre _article_ était l'un des cinq meilleurs articles évalués qui ont été partagés avec toutes les équipes lors de la dernière phase du projet. Notre code est disponible [sur GitHub](https://github.com/vgreg/fincap).
 
 ## Documents de travail permanents
 
 - Do Mutual Fund Managers Adjust NAV for Stale Prices?  
-[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1928321)]
+[[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1928321)]
 
 ## Publications pré-doctorat
 
