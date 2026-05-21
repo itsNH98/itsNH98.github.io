@@ -14,21 +14,21 @@ I study **information economics in financial markets** — how beliefs form, agg
 
 ## Working Papers
 
-- **Who Wins and Who Loses In Prediction Markets? Evidence from Polymarket** with [Pat Akey](https://sites.google.com/view/patakey/home), [Vincent Grégoire](https://www.vincentgregoire.com/), and [Charles Martineau](https://www.charlesmartineau.com/) [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103)] [[Data <i class="fas fa-fw fa-database" aria-hidden="true"></i>](https://huggingface.co/datasets/vgregoire/polymarket-users)]
+- **Who Wins and Who Loses In Prediction Markets? Evidence from Polymarket** with [Pat Akey](https://sites.google.com/view/patakey/home), [Vincent Grégoire](https://www.vincentgregoire.com/), and [Charles Martineau](https://www.charlesmartineau.com/) [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103)] [[Data <i class="fas fa-fw fa-database" aria-hidden="true"></i>](https://huggingface.co/datasets/vgregoire/polymarket-users)]
 
-- **Size distortions in Robust Estimators: Implications for asset pricing** with [Vincent Grégoire](https://www.vincentgregoire.com/) and [Anthony Sanford](https://www.anthonysanford.com/#) [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4640678)]
+- **Size distortions in Robust Estimators: Implications for asset pricing** with [Vincent Grégoire](https://www.vincentgregoire.com/) and [Anthony Sanford](https://www.anthonysanford.com/#) [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4640678)]
 
 ## Publications
 
 <!-- - **Price Informativeness and FOMC Return Reversals**  
    with [Oliver Boguth](http://www.public.asu.edu/~oboguth/), [Adlai Fisher](https://sites.google.com/view/adlai-fisher), and [Charles Martineau](http://www.charlesmartineau.com)  
-   [[SocArXiv <i class="ai ai-osf ai-fw "></i>](https://osf.io/preprints/socarxiv/zurfk/)] [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740)]
+   [[SocArXiv <i class="ai ai-osf ai-fw "></i>](https://osf.io/preprints/socarxiv/zurfk/)] [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4131740)]
 
   - Best Paper on Asset Pricing Award, NFA 2022
 
 - **Double Bonus? Implicit Incentives for Money Managers with Explicit Incentives**  
    with [Juan Sotes-Paladino](https://sites.google.com/site/jmsotespaladino/home)  
-  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2980599)]
+  [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2980599)]
 
 ## Publications
 
@@ -37,7 +37,7 @@ I study **information economics in financial markets** — how beliefs form, agg
    with [Pat Akey](http://patakeyfinance.com) and [Charles Martineau](http://www.charlesmartineau.com),  
   [[JFE <i class="ai ai-open-access ai-fw "></i>](https://doi.org/10.1016/j.jfineco.2021.12.006)]
   [[SocArXiv <i class="ai ai-osf ai-fw "></i>](https://osf.io/preprints/socarxiv/qe6tu/)]
-  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024)]
+  [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3365024)]
   [[Code <i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/vgreg/hacked_earnings_jfe)]
 
   - [Article on Bloomberg.com](https://www.bloomberg.com/news/articles/2019-04-22/the-market-knew-about-the-press-release-hackers-before-the-cops), 2019
@@ -47,14 +47,14 @@ I study **information economics in financial markets** — how beliefs form, agg
   _Journal of Accounting Research_, Volume 60, Issue 1, 2022,  
    with [Charles Martineau](http://www.charlesmartineau.com),  
   [[JAR <i class="ai ai-open-access ai-fw "></i>](https://doi.org/10.1111/1475-679X.12394)]
-  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094)]
+  [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3060094)]
   [[Code <i class="fab fa-fw fa-github" aria-hidden="true"></i>](https://github.com/vgreg/earnings_news_jar)]
 
 - **Inverted Fee Structures, Tick Size, and Market Quality**  
   _Journal of Financial Economics_, Volume 134, Issue 1, 2019,  
    with [Carole Comerton-Forde](https://fbe.unimelb.edu.au/our-people/staff/finance/carole-comerton-forde2) and [Zhuo Zhong](http://www.joe-zh.com/),  
    [[JFE](https://doi.org/10.1016/j.jfineco.2019.03.005)]
-  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939012)]
+  [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2939012)]
   [[Online Appendix](/files/appendices/adf-tsp-appendix.pdf)]
 
   - Best Paper on Market Microstructure Award, NFA 2017
@@ -63,7 +63,7 @@ I study **information economics in financial markets** — how beliefs form, agg
   _Journal of Financial and Quantitative Analysis_, Volume 54, Issue 6, 2019,  
   with [Oliver Boguth](http://www.public.asu.edu/~oboguth/) and [Charles Martineau](http://www.charlesmartineau.com),  
   [[JFQA](https://doi.org/10.1017/S0022109018001357)]
-  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2698477)]
+  [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2698477)]
   [[Internet Appendix](/files/appendices/FOMC_PC_InternetAppendix.pdf)]
 
   **Note**: Since January 2019, the Chairman of the Federal Reserve now holds a press conference after each meeting, which is the main policy recommendation of the paper. A postscript at the end of the paper addresses this point.
@@ -76,7 +76,7 @@ I study **information economics in financial markets** — how beliefs form, agg
 - **The Rise of Passive Investing and Index-linked Comovement**  
   _North American Journal of Economics and Finance_, Volume 51, 101059, 2020,  
   [[NAJEF](https://doi.org/10.1016/j.najef.2019.101059)]
-  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2308695)]
+  [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2308695)]
   [[Internet Appendix](/files/appendices/indexers_appendix.pdf)]
 
 ## Supervised Student Work
@@ -96,14 +96,14 @@ I study **information economics in financial markets** — how beliefs form, agg
 - **Non-Standard Errors**  
   Forthcoming in _Journal of Finance_,  
   coordinated by [Albert J. Menkveld](https://albertjmenkveld.com/), [Anna Dreber](https://sites.google.com/site/annadreber/), [Felix Holzmeister](https://www.holzmeister.biz/), [Juergen Huber](https://www.uibk.ac.at/ibf/team/huberj.html.en), [Magnus Johannesson](https://www.hhs.se/en/persons/j/johannesson-magnus/), [Michael Kirchler](https://www.uibk.ac.at/ibf/team/kirchler.html.en), [Michael Razen](https://www.uibk.ac.at/ibf/mitarbeiter/razen.html), and [Utz Weitzel](https://research.vu.nl/en/persons/utz-weitzel). (300+ co-authors)  
-  [[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://dx.doi.org/10.2139/ssrn.3961574)]
+  [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://dx.doi.org/10.2139/ssrn.3961574)]
 
   - I was part of a team that was responsible for doing the data analysis and writing a summary paper. Our _paper_ was one of the five best rated papers that were shared with all the teams in the last phase of the project. Our code is available [on GitHub](https://github.com/vgreg/fincap).
 
 ## Forever Working Papers
 
 - Do Mutual Fund Managers Adjust NAV for Stale Prices?  
-[[SSRN <i class="ai ai-ssrn ai-fw" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1928321)]
+[[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1928321)]
 
 ## Pre-PhD Publications
 
