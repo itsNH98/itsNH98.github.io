@@ -8,7 +8,7 @@ redirect_from:
   - /recherche/
 ---
 
-J'étudie **l'économie de l'information dans les marchés financiers** — comment les croyances se forment, s'agrègent et influencent les prix. Mes travaux combinent la microstructure des marchés et l'évaluation comportementale des actifs, avec des applications dans les marchés boursiers, les marchés de prédiction et le trading de détail.
+Quand les croyances divergent et les frictions opèrent — qui trade, qui gagne, quels prix émergent, quelles structures se bâtissent ?
 
 ## Documents de Travail
 

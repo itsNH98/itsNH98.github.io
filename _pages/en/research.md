@@ -10,7 +10,7 @@ redirect_from:
   - /research.html
 ---
 
-I study **information economics in financial markets** — how beliefs form, aggregate, and move prices. My work combines market microstructure and behavioral asset pricing, with applications in equity markets, prediction markets, and retail trading.
+When market participants hold heterogeneous beliefs and frictions bind — who trades, who wins, what gets priced, and what gets built?
 
 ## Working Papers
 
