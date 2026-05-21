@@ -8,7 +8,7 @@ redirect_from:
   - /recherche/
 ---
 
-Quand les croyances divergent et les frictions opèrent — qui trade, qui gagne, quels prix émergent, quelles structures se bâtissent ?
+Quand les croyances divergent et les frictions opèrent : qui trade, qui gagne, quels prix émergent, quelles structures se bâtissent ?
 
 ## Documents de Travail
 
