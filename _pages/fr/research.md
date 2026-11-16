@@ -12,6 +12,8 @@ Quand les croyances divergent et les frictions opèrent : qui trade, qui gagne, 
 
 ## Documents de Travail
 
+- **Trades, Quotes, and Price Discovery in Prediction Markets** avec [Pat Akey](https://sites.google.com/view/patakey/home), [Vincent Grégoire](https://www.vincentgregoire.com/) et [Charles Martineau](https://www.charlesmartineau.com/) [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7547106)]
+
 - **Who Wins and Who Loses In Prediction Markets? Evidence from Polymarket** avec [Pat Akey](https://sites.google.com/view/patakey/home), [Vincent Grégoire](https://www.vincentgregoire.com/) et [Charles Martineau](https://www.charlesmartineau.com/) [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6443103)] [[Données <i class="fas fa-fw fa-database" aria-hidden="true"></i>](https://huggingface.co/datasets/vgregoire/polymarket-users)]
 
 - **Size distortions in Robust Estimators: Implications for asset pricing** avec [Vincent Grégoire](https://www.vincentgregoire.com/) et [Anthony Sanford](https://www.anthonysanford.com/#) [[SSRN <i class="fas fa-fw fa-file-alt" aria-hidden="true"></i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4640678)]
