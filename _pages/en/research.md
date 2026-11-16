@@ -10,7 +10,7 @@ redirect_from:
   - /research.html
 ---
 
-When market participants hold heterogeneous beliefs and frictions bind — who trades, who wins, what gets priced, and what gets built?
+I study information economics in financial markets, with a focus on beliefs, coordination, and risk-taking.
 
 ## Working Papers
 

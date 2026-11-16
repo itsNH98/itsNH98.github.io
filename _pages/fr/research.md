@@ -8,7 +8,7 @@ redirect_from:
   - /recherche/
 ---
 
-Quand les croyances divergent et les frictions opèrent : qui trade, qui gagne, quels prix émergent, quelles structures se bâtissent ?
+J'étudie l'économie de l'information dans les marchés financiers, en particulier les croyances, la coordination et la prise de risque.
 
 ## Documents de Travail
 
